@@ -9,7 +9,7 @@ Optimized People Detection and Image Recognition Using YOLOv8" is a project desi
 
 # Labelling the Images
 
-![Image](https://github.com/user-attachments/assets/7508aea0-eec1-4977-a212-1928233aa6f2)
+![Image](https://github.com/user-attachments/assets/3c54fb08-59e7-477a-b60d-09ba7fb172f2)
 
 ea3adf)
 
