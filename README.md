@@ -1,4 +1,4 @@
-# Optimized-People-Detection-and-Image-Recognition-Using-YOLOv8
+# Person Detection-Using-YOLOv8
 # Skills: Python , Labellmg, Annotation, YOLOv8s, Predictive Analysis.
 
 # Introduction
